@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Content/__ExternalActors__/Lake/1/JK/FTW5L9LU7UDN06FYGMQM1M.uasset filter=lfs diff=lfs merge=lfs -text
+Content/__ExternalActors__/Lake/5/FL/M1QXE5J9CB8N62BY2LBV6L.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Fab/Stone_Rubble/source/Textures/source_texture_2.uasset filter=lfs diff=lfs merge=lfs -text
+Content/STF/Pack03-LandscapePro/Maps/open_world_LSP_v2.umap filter=lfs diff=lfs merge=lfs -text
